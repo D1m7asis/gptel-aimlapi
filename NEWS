@@ -305,6 +305,7 @@ model/backend configuration.
 - Add support for xAI.
 
 - Add support for Novita AI.
+- Add support for AI/ML API.  This is an OpenAI-compatible API so you can create a backend with ~gptel-make-openai~, see the README for details.
 
 ** New features and UI changes
 
